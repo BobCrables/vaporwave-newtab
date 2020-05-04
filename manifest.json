@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Custom NewTab Page",
+  "version": "0.1.0",
+  "description": "Vibes on the new tab",
+
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  }
+
+
+ 
+}
